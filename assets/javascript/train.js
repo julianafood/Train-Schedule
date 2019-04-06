@@ -1,8 +1,9 @@
-var config = {
-    apiKey: "AIzaSyA44xjTDjnwdfGdd-9DzkOKw0e1WcJUGLc",
+ apiKey: "AIzaSyA44xjTDjnwdfGdd-9DzkOKw0e1WcJUGLc",
     authDomain: "trainschedule-5fa32.firebaseapp.com",
     databaseURL: "https://trainschedule-5fa32.firebaseio.com",
+    projectId: "train-project-5fa32".
     storageBucket: "trainschedule-5fa32.appspot.com"
+    messagingSenderID: "408406105355"
   };
   
   firebase.initializeApp(config);
