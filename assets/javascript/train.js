@@ -9,7 +9,7 @@ var config = {
   
   var database = firebase.database();
   
-  $("#add-employee-btn").on("click", function(event) {
+  $("#add-train-btn").on("click", function(event) {
     event.preventDefault();
   
     var tTrain = $("#train-input").val().trim();
